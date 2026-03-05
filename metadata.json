@@ -1,0 +1,5 @@
+{
+  "name": "SmartFace Attendance",
+  "description": "AI-powered attendance system using face recognition and Gemini vision.",
+  "requestFramePermissions": ["camera"]
+}
